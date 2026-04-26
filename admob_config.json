@@ -1,5 +1,5 @@
 {
-  "show_ads": false,
+  "show_ads": true,
   "app_open_ad_unit_id": "ca-app-pub-4754459062262858/5421857452",
   "native_ad_unit_id": "ca-app-pub-4754459062262858/3659221201",
   "interstitial_ad_unit_id": "ca-app-pub-4754459062262858/8459084335"
